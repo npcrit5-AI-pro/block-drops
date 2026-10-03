@@ -53,7 +53,7 @@ Open **<http://localhost:8080>**. Press **Ctrl + C** in the terminal to stop the
 The start card lets you set things up:
 
 1. **Pick a mode:** **Creative** (hearts and food are shown) or **Survival** (no hearts and no food).
-2. **OpenRouter key (optional):** paste a key that starts with `sk-or-...` if you want Movebot to use AI. Leave it empty and Movebot still follows you. See [Movebot](#6-movebot) below.
+2. **OpenRouter key (optional):** paste a key that starts with `sk-or-...` if you want Movebot to use AI. Leave it empty and Movebot still follows you. See [Movebot](#7-movebot) below.
 3. Click **Start** (or press **Enter**). Then **click the game view** to capture the mouse so you can look around.
 
 ### 5. Controls
